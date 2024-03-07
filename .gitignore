@@ -3,7 +3,6 @@
 ._*
 .gitignore
 .vscode/
-__*__
 build*/
 ignore/
 python/src/xstudio.egg-info/
